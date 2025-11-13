@@ -1,2 +1,2 @@
-# Bootcam-IA-Talento-Tech
+# BootcamIA-TalentoTech
 Trata de estudio de mascotas más IA
